@@ -1,0 +1,308 @@
+/*--- IXLA WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : 14pt 'MS UI Gothic', 'MS UI Gothic', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3',  sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc02               { /* Common */
+	font            : 10pt '‚l‚r ƒSƒVƒbƒN', '‚l‚r ƒSƒVƒbƒN', 'Osaka|“™•', monospace;
+	color           : #000000;
+	}
+.cc03               { /* Common */
+	font            : 10pt '‚l‚r ƒSƒVƒbƒN', '‚l‚r ƒSƒVƒbƒN', 'Osaka|“™•', monospace;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc04               { /* Common */
+	font            : 14pt 'MS UI Gothic', 'MS UI Gothic', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3',  sans-serif;
+	color           : #000000;
+	}
+.cc05               { /* Common */
+	border          :   0.00pt none #009999;
+	}
+.cc06               { /* Common */
+	border          :   0.00pt none #000080;
+	}
+.cc07               { /* Common */
+	font            : 24pt '‚l‚r ƒSƒVƒbƒN', '‚l‚r ƒSƒVƒbƒN', 'Osaka|“™•', monospace;
+	color           : #000000;
+	text-align      : center;
+	}
+div#e36             { /* <DIV><FONT color="#fffff... */
+	position        : absolute;
+	left            : 113.25pt;
+	top             :  79.50pt;
+	width           : 688.50pt;
+	height          :  21.00pt;
+	}
+div#e35             { /* <DIV><STRONG><FONT color... */
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 183.00pt;
+	width           : 185.25pt;
+	height          :  20.25pt;
+	}
+div#e34             { /* <DIV>  \<DIV>  \<DIV><FO... */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 736.50pt;
+	width           : 879.75pt;
+	height          :  23.25pt;
+	}
+div#e33             { /* <H1><FONT face="MS Serif... */
+	position        : absolute;
+	left            : 200.25pt;
+	top             : 777.00pt;
+	width           : 504.75pt;
+	height          :  27.75pt;
+	}
+div#e32             { /* ƒC[ƒnƒg[ƒ”Œð’ÊƒZƒ“ƒ^[... */
+	background      : transparent url(images/index001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  33.00pt;
+	top             :  24.00pt;
+	width           : 849.75pt;
+	height          :  54.75pt;
+	}
+div#e31             { /* <DIV align="center"><FON... */
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 105.00pt;
+	width           : 789.75pt;
+	height          :  24.00pt;
+	}
+div#e30             { /* <DIV><FONT color="#fffff... */
+	position        : absolute;
+	left            :   9.75pt;
+	top             :1174.50pt;
+	width           : 887.25pt;
+	height          :  20.25pt;
+	}
+div#e29             {
+	position        : absolute;
+	left            : 804.00pt;
+	top             :1086.00pt;
+	width           :  87.75pt;
+	height          :  18.75pt;
+	}
+div#e28             {
+	position        : absolute;
+	left            :  15.75pt;
+	top             :1077.75pt;
+	width           : 342.75pt;
+	height          :  45.75pt;
+	}
+div#e27             { /* <IFRAME style="BORDER-TO... */
+	position        : absolute;
+	left            : 492.75pt;
+	top             : 154.50pt;
+	width           : 360.75pt;
+	height          :  45.75pt;
+	}
+div#e26             { /* <a href="http://px.a8.ne... */
+	position        : absolute;
+	left            :  18.75pt;
+	top             :1033.50pt;
+	width           : 177.75pt;
+	height          :  31.50pt;
+	}
+div#e25             { /* <a href="http://px.a8.ne... */
+	position        : absolute;
+	left            : 200.25pt;
+	top             :1033.50pt;
+	width           : 177.75pt;
+	height          :  31.50pt;
+	}
+div#e24             { /* <iframe src="http://rcm-... */
+	position        : absolute;
+	left            : 384.75pt;
+	top             :1032.00pt;
+	width           : 141.00pt;
+	height          : 102.00pt;
+	}
+div#e23             { /* <a href="http://px.a8.ne... */
+	position        : absolute;
+	left            : 717.75pt;
+	top             :1032.75pt;
+	width           : 174.00pt;
+	height          :  31.50pt;
+	}
+img#e22             { /* images/index001016.gif */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 816.00pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e21             { /* images/index001015.gif */
+	position        : absolute;
+	left            : 168.00pt;
+	top             : 816.00pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e20             { /* images/index001014.gif */
+	position        : absolute;
+	left            : 316.50pt;
+	top             : 816.00pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e19             { /* images/index001013.gif */
+	position        : absolute;
+	left            : 465.00pt;
+	top             : 816.00pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e18             { /* images/index001012.gif */
+	position        : absolute;
+	left            : 613.50pt;
+	top             : 816.00pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e17             { /* images/index001011.gif */
+	position        : absolute;
+	left            : 762.00pt;
+	top             : 816.00pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e16             { /* images/index001010.gif */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 878.25pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e15             { /* images/index001009.gif */
+	position        : absolute;
+	left            : 168.00pt;
+	top             : 878.25pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e14             { /* images/index001008.gif */
+	position        : absolute;
+	left            : 316.50pt;
+	top             : 878.25pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e13             { /* images/index001007.gif */
+	position        : absolute;
+	left            : 465.00pt;
+	top             : 878.25pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e12             { /* images/index001006.gif */
+	position        : absolute;
+	left            : 613.50pt;
+	top             : 878.25pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+img#e11             { /* images/index001005.gif */
+	position        : absolute;
+	left            : 762.00pt;
+	top             : 878.25pt;
+	width           : 123.75pt;
+	height          :  43.50pt;
+	}
+div#e10             { /* <a href="http://px.a8.ne... */
+	position        : absolute;
+	left            : 536.25pt;
+	top             :1032.75pt;
+	width           : 174.00pt;
+	height          :  31.50pt;
+	}
+span#e9             { /* images/index001004.jpg */
+	background      : transparent url(images/index001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 178.50pt;
+	top             : 312.00pt;
+	width           : 549.75pt;
+	height          : 419.25pt;
+	}
+div#e8              { /* <!-- shinobi ct1 -->\<sc... */
+	position        : absolute;
+	left            : 265.50pt;
+	top             : 176.25pt;
+	width           : 105.75pt;
+	height          :  29.25pt;
+	}
+span#e7             { /* images/index001003.gif */
+	background      : transparent url(images/index001003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 214.50pt;
+	width           : 867.00pt;
+	height          :  54.00pt;
+	}
+div#e6              { /* <DIV align="center"><FON... */
+	position        : absolute;
+	left            :  21.75pt;
+	top             : 217.50pt;
+	width           : 858.00pt;
+	height          :  14.25pt;
+	}
+span#e5             { /* images/index001002.gif */
+	background      : transparent url(images/index001002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 956.25pt;
+	width           : 866.25pt;
+	height          :  40.50pt;
+	}
+span#e4             { /* images/index001001.gif */
+	background      : transparent url(images/index001001.gif) no-repeat top left;
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 962.25pt;
+	width           : 104.25pt;
+	height          :  30.75pt;
+	}
+div#e3              { /* <DIV align="center"><FON... */
+	position        : absolute;
+	left            :  24.00pt;
+	top             : 967.50pt;
+	width           : 105.75pt;
+	height          :  24.00pt;
+	}
+div#e2              { /* <DIV align="left">  \<DI... */
+	position        : absolute;
+	left            : 218.25pt;
+	top             : 237.75pt;
+	width           : 489.75pt;
+	height          :  27.75pt;
+	}
+div#e1              { /* <DIV><FONT face="ƒƒCƒŠƒ... */
+	position        : absolute;
+	left            : 167.25pt;
+	top             : 966.00pt;
+	width           : 699.00pt;
+	height          :  24.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #000000;
+	background-image: url(images/b10016.gif);
+	position        : relative;
+	width           : 900.00pt;
+	height          :1207.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/
